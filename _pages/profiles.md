@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: This website is a work in progress. Come back later for more info!
 nav: true
 nav_order: 7
 

@@ -2,7 +2,7 @@
 layout: post
 title: a post with custom blockquotes
 date: 2023-05-12 15:53:00-0400
-description: an example of a blog post with custom blockquotes
+description: This website is a work in progress. Come back later for more info!
 tags: formatting blockquotes
 categories: sample-posts
 giscus_comments: true
