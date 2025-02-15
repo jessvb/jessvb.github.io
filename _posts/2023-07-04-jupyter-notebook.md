@@ -2,7 +2,7 @@
 layout: post
 title: a post with jupyter notebook
 date: 2023-07-04 08:57:00-0400
-description: This website is a work in progress. Come back later for more info!
+description: an example of a blog post with jupyter notebook
 tags: formatting jupyter
 categories: sample-posts
 giscus_comments: true
