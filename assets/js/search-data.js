@@ -393,7 +393,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://research.nianticlabs.com/publications/", "_blank");
+          window.open("https://www.nianticspatial.com/research", "_blank");
         },
       },{
       id: 'light-theme',
