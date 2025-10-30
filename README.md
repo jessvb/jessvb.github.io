@@ -1,5 +1,13 @@
 # al-folio
 
+(Note to self: To test the website:
+```
+cd jessvb.github.io
+docker compose pull
+docker compose up  # or first-time build: docker compose up --build
+```
+Open: http://localhost:8080 )
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
